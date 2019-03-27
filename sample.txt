@@ -1,1 +1,2 @@
 con khi no hieu dx Git
+Thay doi trong index
