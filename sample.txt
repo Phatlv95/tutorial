@@ -1,3 +1,4 @@
 con khi no hieu dx Git
 Thay doi trong index
+Them dong tu git 1
 Them dong tu tutorial
